@@ -1,0 +1,5 @@
+kuser (4:4.11.1-0r0) UNRELEASED; urgency=low
+
+  * First release of kdeadmin after being split by upstream.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 04 Sep 2013 15:04:43 +0200

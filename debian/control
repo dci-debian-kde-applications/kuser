@@ -1,0 +1,27 @@
+Source: kuser
+Section: kde
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Sune Vuorela <sune@debian.org>,
+           Fathi Boudra <fabo@debian.org>,
+           Modestas Vainius <modax@debian.org>,
+           Eshat Cakar <info@eshat.de>,
+           Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
+           Maximiliano Curia <maxy@debian.org>
+Build-Depends: kde-sc-dev-latest (>= 4:4.10.2),
+ cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
+ kdepimlibs5-dev (>= 4:4.10.2), docbook-to-man, nepomuk-core-dev (>= 4:4.10.2)
+Standards-Version: 3.9.4
+Homepage: http://www.kde.org/
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kuser.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kuser.git
+
+Package: kuser
+Section: admin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: khelpcenter4
+Description: user and group administration tool
+ KUser is an application for managing users and groups on your system.
+ .
+ This package is part of the KDE administration module.
