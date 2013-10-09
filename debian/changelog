@@ -1,5 +1,5 @@
-kuser (4:4.11.2-1) UNRELEASED; urgency=low
+kuser (4:4.11.2-1) experimental; urgency=low
 
   * First release of kdeadmin after being split by upstream.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 11:37:08 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 12:03:03 +0200
