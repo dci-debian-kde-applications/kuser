@@ -1,9 +1,9 @@
-kuser (4:4.11.3-1) UNRELEASED; urgency=low
+kuser (4:4.11.3-1) unstable; urgency=low
 
   * New upstream release.
   * Update build dependencies.
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 09 Nov 2013 20:26:41 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 09 Nov 2013 20:32:47 +0100
 
 kuser (4:4.11.2-1) experimental; urgency=low
 
