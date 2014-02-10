@@ -3,6 +3,7 @@ kuser (4:4.12.2-1) UNRELEASED; urgency=low
   * New upstream release.
   * Bump Standards-Version to 3.9.5, no changes needed.
   * New upstream release.
+  * Bump kde-sc-dev-latest build dependency.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Feb 2014 19:27:21 +0100
 

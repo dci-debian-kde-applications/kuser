@@ -11,7 +11,7 @@ Uploaders: Sune Vuorela <sune@debian.org>,
 Build-Depends: cmake,
                debhelper (>= 9),
                docbook-to-man,
-               kde-sc-dev-latest (>= 4:4.11),
+               kde-sc-dev-latest (>= 4:4.12),
                kdepimlibs5-dev (>= 4:4.11),
                nepomuk-core-dev (>= 4:4.11),
                pkg-kde-tools (>= 0.12)
