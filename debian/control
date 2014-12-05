@@ -24,7 +24,7 @@ Package: kuser
 Section: admin
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Suggests: khelpcenter4
+Suggests: khelpcenter
 Description: user and group administration tool
  KUser is an application for managing users and groups on your system.
  .
