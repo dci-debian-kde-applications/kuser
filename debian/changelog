@@ -1,3 +1,11 @@
+kuser (4:15.12.0-2~1.gbp703697) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @7036971e32241e70e9d732e6d30d3585eb42b21f **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:21:51 +0200
+
 kuser (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
