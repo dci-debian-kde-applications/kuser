@@ -1,11 +1,18 @@
-kuser (4:15.12.0-2~2.gbp3224a0) UNRELEASED; urgency=medium
+kuser (4:15.12.0-2~3.gbp308922) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @30892245e4773d10000be2354456a02daa3a22a5 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @3224a0c6f5647e0e2a799c1ccd361be9f5b38c8e **
 
   * Bump Standards-Version to 3.9.8
   * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Sat, 30 Apr 2016 20:04:35 +0200
+  [ Maximiliano Curia ]
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:21:19 +0200
 
 kuser (4:15.12.0-1) experimental; urgency=medium
 
