@@ -5,6 +5,7 @@ kuser (4:16.08.0-0r1) UNRELEASED; urgency=medium
   * Stop forcing the local installation to debian/tmp, letting the package
     directory as install place.
     - remove kuser.install, no more used now
+  * Fix typo in man page.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 07:03:06 +0200
 
