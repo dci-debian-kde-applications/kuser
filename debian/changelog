@@ -1,6 +1,6 @@
-kuser (4:16.08.0-0r1) UNRELEASED; urgency=medium
+kuser (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Stop forcing the local installation to debian/tmp, letting the package
     directory as install place.
@@ -9,7 +9,7 @@ kuser (4:16.08.0-0r1) UNRELEASED; urgency=medium
   * Explicitly add kdelibs5-dev as build dependency, so a null phonon backend
     is installed.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 07:03:06 +0200
+ -- Pino Toscano <pino@debian.org>  Sun, 28 Aug 2016 07:16:34 +0200
 
 kuser (4:15.12.0-3) unstable; urgency=medium
 
